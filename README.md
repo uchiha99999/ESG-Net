@@ -37,15 +37,13 @@ python ./eval.py ./configs/avel_unav100.yaml ./ckpt/avel_unav100_reproduce
 # Citation
 ```
 @article{li2026esgnet,
-  title   = {{ESG-Net}: Event-Aware Semantic Guided Network
-             for Dense Audio-Visual Event Localization},
-  author  = {Li, Huilai and Dang, Yonghao and Xing, Ying
-             and Wang, Yiming and Yin, Jianqin},
+  title = {{ESG-Net}: Event-Aware Semantic Guided Network for Dense Audio-Visual Event Localization},
+  author = {Huilai Li, Yonghao Dang, Ying Xing, Yiming Wang and Jianqin Yin},
   journal = {IEEE Transactions on Multimedia},
-  year    = {2026},
-  volume  = {28},
-  pages   = {6213--6224},
-  doi     = {10.1109/TMM.2026.3668572}
+  year = {2026},
+  volume = {28},
+  pages = {6213--6224},
+  doi = {10.1109/TMM.2026.3668572}
 }
 ```
 
