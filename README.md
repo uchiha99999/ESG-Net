@@ -1,5 +1,5 @@
 # ESG-Net: Event-Aware Semantic Guided Network for Dense Audio-Visual Event Localization
-[[Early Access]](https://ieeexplore.ieee.org/document/11417281) [[ArXiv]](https://arxiv.org/abs/2507.09945)
+[[IEEE]](https://ieeexplore.ieee.org/document/11417281) [[ArXiv]](https://arxiv.org/abs/2507.09945)
 
 This repository contains the code for our TMM paper "ESG-Net: Event-Aware Semantic Guided Network for Dense Audio-Visual Event Localization".
 
