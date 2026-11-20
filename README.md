@@ -35,6 +35,7 @@ python ./eval.py ./configs/avel_unav100.yaml ./ckpt/avel_unav100_reproduce
 ```
 
 # Citation
+```
 @article{li2026esgnet,
   title   = {{ESG-Net}: Event-Aware Semantic Guided Network
              for Dense Audio-Visual Event Localization},
@@ -46,6 +47,7 @@ python ./eval.py ./configs/avel_unav100.yaml ./ckpt/avel_unav100_reproduce
   pages   = {6213--6224},
   doi     = {10.1109/TMM.2026.3668572}
 }
+```
 
 # Acknowledgement
 Our codes are developed based on the codebase of pioneering work UnAV. We thank the authors for their excellent efforts.
